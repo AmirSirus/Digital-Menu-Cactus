@@ -22,20 +22,20 @@
     /* مشکی گرم/جوهری */
 
     /* --- نقش‌های معنایی (بقیه‌ی استایل‌ها فقط این‌ها را صدا می‌زنند) --- */
-    --bg: var(--brand-cream);
-    --bg-elevated: #FFFDF8;
-    --bg-card: #FFFFFF;
-    --border: #E7DBC4;
+    --bg: #14110F;
+    --bg-elevated: #1C1815;
+    --bg-card: #221D19;
+    --border: #332C26;
 
     --accent: var(--brand-red);
     /* برای مسیر «سبز کاکتوسی» این را = var(--brand-green) کن */
-    --accent-hover: var(--brand-red-dark);
-    --accent-soft: var(--brand-red-soft);
+    --accent-hover: #123528;
+    --accent-soft: var(--brand-green-soft);
     --accent-2: var(--brand-green);
     /* لهجه‌ی دوم */
 
-    --text: var(--ink);
-    --text-muted: #6E6155;
+    --text: #F3E8D2;
+    --text-muted: #A99B8B;
 
     --success: #1B7F4B;
     --danger: #B4141C;
